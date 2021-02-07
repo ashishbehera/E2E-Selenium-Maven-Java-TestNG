@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-06T17:37:25 IST" name="Default suite" finished-at="2021-02-06T17:37:25 IST" duration-ms="47">
+    <groups>
+    </groups>
+    <test started-at="2021-02-06T17:37:25 IST" name="Default test" finished-at="2021-02-06T17:37:25 IST" duration-ms="47">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method signature="nativeAppAndroid()[pri:0, instance:qaclickacademy.AppiumTest@3e96bacf]" started-at="2021-02-06T17:37:25 IST" name="nativeAppAndroid" finished-at="2021-02-06T17:37:25 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
