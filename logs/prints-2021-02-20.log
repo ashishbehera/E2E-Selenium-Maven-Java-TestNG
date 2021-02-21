@@ -1,0 +1,6 @@
+23:45:18.743 [TestNG-tests-2] INFO  pratice.ValidateNavigationBar - Driver is initialized
+23:45:29.096 [TestNG-tests-2] INFO  pratice.ValidateNavigationBar - Navigate to Home Page
+23:45:30.630 [TestNG-tests-1] INFO  pratice.ValidateNavigationBar - Navigation Bar is displayed
+23:45:31.684 [TestNG-tests-3] INFO  pratice.ValidateNavigationBar - Non Restricted User
+23:45:37.159 [TestNG-tests-3] INFO  pratice.ValidateNavigationBar - Restricted User
+23:49:03.868 [TestNG-tests-2] INFO  pratice.ValidateNavigationBar - Driver is initialized

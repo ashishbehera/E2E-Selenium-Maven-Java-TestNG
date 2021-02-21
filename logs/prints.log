@@ -1,0 +1,5 @@
+23:18:13.550 [TestNG-tests-2] INFO  pratice.ValidateNavigationBar - Navigate to Home Page
+23:18:13.595 [TestNG-tests-2] INFO  pratice.ValidateNavigationBar - Sucessfully validated text message
+23:18:14.702 [TestNG-tests-1] INFO  pratice.ValidateNavigationBar - Navigation Bar is displayed
+23:18:18.730 [TestNG-tests-3] INFO  pratice.ValidateNavigationBar - Non Restricted User
+23:18:28.017 [TestNG-tests-3] INFO  pratice.ValidateNavigationBar - Restricted User
