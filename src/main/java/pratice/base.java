@@ -26,7 +26,8 @@ public class base {
 		 prop = new Properties();
 		FileInputStream fis = new FileInputStream(path);
 		prop.load(fis);
-		String browserName = prop.getProperty("browser");
+		//String browserName = prop.getProperty("browser");
+		String browserName = System.getProperty("browser");
 		System.out.println("browserName"+browserName);
 		
 		if(browserName.equalsIgnoreCase("chrome")) {
