@@ -12,9 +12,9 @@ public class LandingPage {
 		this.driver = driver;
 	}
 	
-	By signin = By.cssSelector("a[href*='sign_in']");
-	By title = By.cssSelector(".text-center>h2");
-	By navBar = By.cssSelector(".nav.navbar-nav.navbar-right>li>a");
+	private By signin = By.cssSelector("a[href*='sign_in']");
+	private By title = By.cssSelector(".text-center>h2");
+	private By navBar = By.cssSelector(".nav.navbar-nav.navbar-right>li>a");
 	
 	
 	public LoginPage getLogin() {
